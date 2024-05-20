@@ -1,25 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a08f55c0.css",
-    "main.js": "/portfolio/static/js/main.b920c85f.js",
+    "main.js": "/portfolio/static/js/main.23073370.js",
     "static/js/453.d5478574.chunk.js": "/portfolio/static/js/453.d5478574.chunk.js",
     "static/media/proyecto6.png": "/portfolio/static/media/proyecto6.4a7978252d869560963d.png",
     "static/media/proyecto5.jpg": "/portfolio/static/media/proyecto5.4e5773454a57d7cdd1ce.jpg",
     "static/media/proyecto1.jpg": "/portfolio/static/media/proyecto1.b80b9a172502b8c7cef7.jpg",
     "static/media/proyecto3.jpg": "/portfolio/static/media/proyecto3.96e1b0652322b11e5324.jpg",
     "static/media/proyecto2.jpg": "/portfolio/static/media/proyecto2.b419efdfb68795d4deb7.jpg",
-    "static/media/proyecto7.png": "/portfolio/static/media/proyecto7.72929f76f2e49320d71c.png",
     "static/media/proyecto4.png": "/portfolio/static/media/proyecto4.30bfc683a3ad3652d0f1.png",
-    "static/media/Coding5.png": "/portfolio/static/media/Coding5.83e221711e801cdd7cc5.png",
     "static/media/Coding6.png": "/portfolio/static/media/Coding6.f1ffc0572d79662015ae.png",
-    "static/media/Coding7.png": "/portfolio/static/media/Coding7.91c7c5ea2eb69f0bbf17.png",
     "index.html": "/portfolio/index.html",
     "main.a08f55c0.css.map": "/portfolio/static/css/main.a08f55c0.css.map",
-    "main.b920c85f.js.map": "/portfolio/static/js/main.b920c85f.js.map",
+    "main.23073370.js.map": "/portfolio/static/js/main.23073370.js.map",
     "453.d5478574.chunk.js.map": "/portfolio/static/js/453.d5478574.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a08f55c0.css",
-    "static/js/main.b920c85f.js"
+    "static/js/main.23073370.js"
   ]
 }
